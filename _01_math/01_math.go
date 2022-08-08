@@ -1,6 +1,6 @@
 package _01_math
 
-import "github.com/tamilmaaran/gofirst/greetings"
+import "github.com/tamilmaaran/gofirsty/greetings"
 
 func SayMath() string {
 	return greetings.Greet()
