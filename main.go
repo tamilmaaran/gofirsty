@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/tamilmaaran/gofirst/greetings"
-	"github.com/tamilmaaran/gofirst/hello"
+	"github.com/tamilmaaran/gofirsty/greetings"
+	"github.com/tamilmaaran/gofirsty/hello"
 
-	"github.com/tamilmaaran/gofirst/_01_math"
+	"github.com/tamilmaaran/gofirsty/_01_math"
 )
 
 func main() {

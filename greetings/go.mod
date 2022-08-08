@@ -1,3 +1,3 @@
-module github.com/tamilmaaran/gofirst/greetings
+module github.com/tamilmaaran/gofirsty/greetings
 
 go 1.16

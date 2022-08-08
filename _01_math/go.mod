@@ -1,3 +1,3 @@
-module github.com/tamilmaaran/gofirst/_01_math
+module github.com/tamilmaaran/gofirsty/_01_math
 
 go 1.16
